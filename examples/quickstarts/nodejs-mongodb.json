@@ -60,7 +60,7 @@
             "apiVersion": "v1",
             "kind": "Route",
             "metadata": {
-                "name": "${NAME}-dev"
+                "name": "${NAME}"
             },
             "spec": {
                 "host": "${APPLICATION_DOMAIN}",
